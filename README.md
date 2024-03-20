@@ -3,6 +3,12 @@
 ## Emmet’deki Kısa Yollar
 
 <ol>
-  <li> > ifadesini kullanarak kardeş element oluşturuyoruz.<p>Örneğin şekildeki, gibi ul tagı içerisinde li tagı oluşturmak istiyorsunuz. Bunun için yapmanız gereken tek şey ul>li yazarak Tab’a basmak.</p>
+  <li> > ifadesini kullanarak kardeş element oluşturuyoruz.<p>Örneğin şekildeki, gibi ul tagı içerisinde li tagı oluşturmak istiyorsunuz. Bunun için yapmanız gereken tek şey <b>ul>li</b> yazarak Tab’a basmak.</p>
+    
+         
+      <ul>
+        <li></li>
+      </ul>  
+   
   </li>
 </ol>

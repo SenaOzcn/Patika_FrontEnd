@@ -108,4 +108,27 @@
 
     
   </li>
+  <li>
+    Bu kadar uzun bir lorem yazısı istemiyorsanız yapmanız gereken tek şey lorem yazdıktan sonra yanına kaç kelimeli bir lorem oluşturmak istediğinizi eklemek.
+    <p>Örneğin <b>5 kelimeli bir lorem yazısı</b> istiyorsunuz. Bunun için <b>p>lorem5</b> yazmanız yeterli.</p>
+
+        <p>Lorem ipsum dolor sit amet.</p>
+    
+  </li>
+  <li>
+    Son olarak Emmet’in bir özelliğinden bahsedeceğim. <b>li.className</b> yazıp Tab’a bastığımızda ne oluşmasını bekleriz? Evet className class’ına ait bir li tagı oluşmasını. Peki herhangi bir tag koymaksızın sadece <b>.className</b> yazdıktan sonra Tab’a basarsak ne olur?
+<p>Cevap:</p>
+
+        <div class="className"></div>
+
+<p>Gördüğünüz gibi bir div oluşturdu. Emmet’e bir tag vermeksizin . veya # ifadelerini kullandığımızda bunun <b><i>div</i></b> tagı olduğunu biliyor.</p>
+<p>Ama biz bunu <b>ul</b> tagı içinde denersek tepkisi ne olur? Hadi deneyelim!:</p>
+    
+        <ul>
+            <li class="className"></li>
+        </ul>
+
+<p>Gördüğünüz gibi <b>ul>.className</b> yazıp Tab’a bastığımızda ise bunun li elementi olduğunu algılıyor.</p>
+<p>Emmet’in kendi sitesindeki cheat sheete <a href="https://docs.emmet.io/cheat-sheet/">buradan</a> ulaşabilirsiniz.</p>
+  </li>
 </ol>

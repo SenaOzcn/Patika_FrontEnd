@@ -132,3 +132,8 @@
 <p>Emmet’in kendi sitesindeki cheat sheete <a href="https://docs.emmet.io/cheat-sheet/" target="_blank">buradan</a> ulaşabilirsiniz.</p>
   </li>
 </ol>
+
+## map ve area
+
+<p>Görselleriniz <i>hyperlink</i> atamanız durumunda görselin tüm alanı <b>link</b> alanı haline dönüşecektir. Görselin <b>herhangi bir yerine tıklanılması</b> durumunda görsel sizi tanımlanan bağlantıya gönderecektir. </p>
+<p><img> etiketleri için kullanılan <map> ve <area> etiketleri ile resmin içindeki <b>koordinatlarla</b> belirlediğimiz bir alanı sadece link haline getirebiliriz. Eklediğimiz <area> etiketi kadar belirlenen alanı bir resim üzerinden birçok bağlantıya link verebiliriz.</p>

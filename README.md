@@ -137,3 +137,10 @@
 
 <p>Görselleriniz <i>hyperlink</i> atamanız durumunda görselin tüm alanı <b>link</b> alanı haline dönüşecektir. Görselin <b>herhangi bir yerine tıklanılması</b> durumunda görsel sizi tanımlanan bağlantıya gönderecektir. </p>
 <p><img> etiketleri için kullanılan <map> ve <area> etiketleri ile resmin içindeki <b>koordinatlarla</b> belirlediğimiz bir alanı sadece link haline getirebiliriz. Eklediğimiz <area> etiketi kadar belirlenen alanı bir resim üzerinden birçok bağlantıya link verebiliriz.</p>
+
+## picture Elementi ile Kullanım
+HTML5 ile gelen picture elementi web sayfamızda responsive image'ler kullanmamız konusunda büyük kolaylıklar sağlıyor. Bir tane img ve birden fazla source içerebilir. picture tagi ekran boyutlarına göre birden çok source kulllanmamızı sağlar bu sayede ekran boyutu değiştikçe farklı image'leri kullanabilirsiniz.
+
+Tarayıcı, her bir source öğesini inceleyip eşleşme sağlar. Eşleşme bulunamazsa veya tarayıcı <picture> öğesini desteklemiyorsa, <img> öğesinin src URL'si seçilir. Seçilen görüntü daha sonra <img> öğesinin kapladığı alanda sunulur.
+
+<a href="https://jsfiddle.net/a2dvm503/4/" target="_blank">Buradan</a> ekran boyutunuzu değiştirerek inceleyebilirsiniz.

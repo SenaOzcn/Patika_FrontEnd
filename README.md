@@ -129,6 +129,6 @@
         </ul>
 
 <p>Gördüğünüz gibi <b>ul>.className</b> yazıp Tab’a bastığımızda ise bunun li elementi olduğunu algılıyor.</p>
-<p>Emmet’in kendi sitesindeki cheat sheete <a href="https://docs.emmet.io/cheat-sheet/">buradan</a> ulaşabilirsiniz.</p>
+<p>Emmet’in kendi sitesindeki cheat sheete <a href="https://docs.emmet.io/cheat-sheet/" target="_blank">buradan</a> ulaşabilirsiniz.</p>
   </li>
 </ol>
